@@ -13,6 +13,9 @@
 	margin-left: 100px;
 }
 
+#header-list {
+ padding-top: 30px;
+}
 .menu {
 	display: inline-block;
 	padding-top: 30px;
@@ -25,10 +28,14 @@
 .menu a {
 	text-decoration: none;
 	color:gray;
+	transition:  .3s ease-out;
+	border-bottom: 2px solid transparent;
 }
 
 .menu a:hover {
 	color:#1A941C;
+	border-bottom: 2px solid #1A941C;
+	
 }
 
 .banner {
@@ -190,12 +197,18 @@
 }
 
 .caja-posteo {
+
 	margin:15px;
 }
+
 .caja-posteo img {
 	max-width: 100%;
 }
 
+.caja-posteo_text {
+	padding: 10px;
+	
+}
 #contacto {
 	background-color:#6F7274;
 	height:200px;
@@ -212,9 +225,8 @@
 }
 
 .icon-contacto:hover {
-	color:#104C69;
-	transition-duration:1s;
-	font-size:100px;
+	color:#a7c244;
+	transition-duration: .5s;
 
 }
 
