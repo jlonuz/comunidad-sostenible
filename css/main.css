@@ -8,250 +8,236 @@
 }*/
 
 .logo {
-	width: 100px;
-	height: 100px;
-	margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
 }
 
 #header-list {
- padding-top: 30px;
+    padding-top: 30px;
 }
-.menu {
-	display: inline-block;
-	padding-top: 30px;
-	padding-left: 35px;
-	font-family: 'Quicksand';
-	
 
+.menu {
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 35px;
+    font-family: 'Quicksand';
 }
 
 .menu a {
-	text-decoration: none;
-	color:gray;
-	transition:  .3s ease-out;
-	border-bottom: 2px solid transparent;
+    text-decoration: none;
+    color: gray;
+    transition: .3s ease-out;
+    border-bottom: 2px solid transparent;
 }
 
 .menu a:hover {
-	color:#1A941C;
-	border-bottom: 2px solid #1A941C;
-	
+    color: #1A941C;
+    border-bottom: 2px solid #1A941C;
 }
 
 .banner {
-	background-image: url(../img/semilla.jpg);
-	background-size: cover;
-	background-position: center;
-	height:400px;
-	margin-top: 20px;
+    background-image: url(../img/semilla.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    margin-top: 20px;
 }
 
 .fondo1 {
-	background-color: #F8F7FA;
+    background-color: #F8F7FA;
 }
 
 .parrafo1 {
-	font-family: 'Quicksand';
-	padding: 50px;
-	padding-left: 20%;
-	padding-right: 20%;
+    font-family: 'Quicksand';
+    padding: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .padding-mision {
-	padding:50px;
-	font-family: 'Quicksand';
+    padding: 50px;
+    font-family: 'Quicksand';
 }
 
 .padding-mision p {
-	font-size: 13px;
+    font-size: 13px;
 }
 
 .fondo2 {
-	background-image: url(../img/metodo.JPG);
-	background-size: cover;
-	background-position: center;
-	height:350px;
+    background-image: url(../img/metodo.JPG);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
 }
 
 .fondo3 {
-	background-image: url(../img/fondo.jpg);
-	background-size: cover;
-	background-position: center;
-	font-family: 'Quicksand';
-	color:white;
-	height:350px;
-	padding:60px;
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand';
+    color: white;
+    height: 350px;
+    padding: 60px;
 }
 
 .fondo3 h4 {
-	padding:15px;
+    padding: 15px;
 }
 
 .fondo3 p {
-	font-size: 13px;
-	padding-left:30px;
-	padding-right: 30px;
+    font-size: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .padding-section {
-	padding-left: 60px;
-	padding-right: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 
 .title-servicio {
-	font-family: 'Quicksand';
-	padding-top: 30px;
+    font-family: 'Quicksand';
+    padding-top: 30px;
 }
 
 .title-servicio p {
-	font-size: 12px;
-	padding-left:80px;
-	padding-right: 80px;
+    font-size: 12px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .padding-servicio {
-	font-family: 'Quicksand';
-	padding:20px;
+    font-family: 'Quicksand';
+    padding: 20px;
 }
 
 .padding-servicio h4 {
-	padding:10px;
-	color:#4A7F2F;
+    padding: 10px;
+    color: #4A7F2F;
 }
 
 .padding-servicio p {
-	font-size: 13px;
+    font-size: 13px;
 }
 
 .fondo4 {
-	background-color: #4A7F2F;
+    background-color: #4A7F2F;
 }
 
 .title-proyecto {
-	color:#DDEBE3;
-	font-family: 'Quicksand';
-	padding:40px;
+    color: #DDEBE3;
+    font-family: 'Quicksand';
+    padding: 40px;
 }
 
 .img-proyecto {
-	width:450px;
-	height:300px;
-	margin-left: 100px;
-	margin-bottom: 40px;
-	border-radius: 10px;
-	border:1px solid #164414;
-
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 15px;
 }
 
 .descripcion-proyecto {
-	font-family: 'Quicksand';
-	color:#DDEBE3;
-	padding-top: 20px;
-	padding-right: 80px;
+    font-family: 'Quicksand';
+    color: #DDEBE3;
+    padding: 20px;
 }
 
 .descripcion-proyecto h4 {
-	padding-bottom:15px;
+    padding-bottom: 15px;
 }
 
 .descripcion-proyecto p {
-	font-size: 13px;
+    font-size: 13px;
 }
 
 .title-equipo {
-	font-family: 'Quicksand';
-	color:#4A7F2F;
-	padding-top:30px;
+    font-family: 'Quicksand';
+    color: #4A7F2F;
+    padding-top: 30px;
 }
 
 .foto-equipo {
-	border-radius: 100%;
-	width:250px;
-	height:250px;
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
 }
 
 .equipo-cargos {
-	padding-top:20px;
-	padding-left: 50px;
-	padding-right: 50px;
-	font-family: 'Quicksand';
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Quicksand';
 }
 
 .equipo-cargos p {
-	font-size: 13px;
+    font-size: 13px;
 }
 
 .red-social {
-	font-size: 30px;
-	margin:5px;
-	color:gray;
-	margin-bottom: 50px;
+    font-size: 30px;
+    margin: 5px;
+    color: gray;
+    margin-bottom: 50px;
 }
+
 .red-social:hover {
-	color:#4A7F2F;
+    color: #4A7F2F;
 }
 
 .fondo-blog {
-	background-image: url(../img/fondo2.jpg);
-	
+    background-image: url(../img/fondo2.jpg);
 }
 
 .caja-posteo {
-
-	margin:15px;
+    margin: 15px;
 }
 
 .caja-posteo img {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 .caja-posteo_text {
-	padding: 10px;
-	
+    padding: 10px;
 }
+
 #contacto {
-	background-color:#6F7274;
-	height:200px;
+    background-color: #6F7274;
+    height: 200px;
 }
 
 .margin-icon {
-	margin-top:50px;
-	margin-left:20px;
+    margin-top: 50px;
+    margin-left: 20px;
 }
 
 .icon-contacto {
-	font-size: 80px;
-	color:white;
+    font-size: 80px;
+    color: white;
 }
 
 .icon-contacto:hover {
-	color:#a7c244;
-	transition-duration: .5s;
-
+    color: #a7c244;
+    transition-duration: .5s;
 }
 
 footer {
-	height:100px;
-	padding-top:20px;
-	padding-bottom: 20px;
-	font-family: 'Quicksand';
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Quicksand';
 }
+
 .pull-right span {
-	display:block;
+    display: block;
 }
+
 .enlace {
-	color:#EBCB16;
-	text-decoration: none;
+    color: #EBCB16;
+    text-decoration: none;
 }
-
-
 
 
 /*Aqui empiezan los medias */
 
-@media (max-width : 320px){
-
-
-
-
-}
+@media (max-width: 320px) {}
